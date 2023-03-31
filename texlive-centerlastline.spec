@@ -1,6 +1,6 @@
 Name:		texlive-centerlastline
 Version:	56644
-Release:	1
+Release:	2
 Summary:	Paragraphs with last line centered, known as "Spanish" paragraphs
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/centerlastline
